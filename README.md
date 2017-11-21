@@ -1,6 +1,8 @@
-# Project Name
+# Sonder
 
-> Pithy project description
+> Sonder is a neighborhood discovery walking app for IOS and Android built on React Native.
+
+![alt text](https://github.com/wattmalsh/Sonder/raw/master/sonder.gif "Sonder")
 
 ## Team
 
@@ -17,10 +19,6 @@
     1. [Tasks](#tasks)
 1. [Team](#team)
 1. [Contributing](#contributing)
-
-## Usage
-
-> Some usage instructions
 
 ## Requirements
 
