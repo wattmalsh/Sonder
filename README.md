@@ -2,8 +2,6 @@
 
 > Sonder is a neighborhood discovery walking app for IOS and Android built on React Native.
 
-![](https://github.com/wattmalsh/Sonder/raw/master/sonder.gif "Sonder")
-
 ## Team
 
   - __Product Owner__: George Michel
